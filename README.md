@@ -28,3 +28,5 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 # Caravan
 
 ![alt](./images/caravan.jpg)
+
+> Caravan is still in development and not suited for production because we still don't know where it goes.
